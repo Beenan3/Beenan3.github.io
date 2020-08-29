@@ -1,2 +1,3 @@
 name: Brinnan Sutton, Fantasy Football Champion
 theme: jekyll-theme-cayman
+permalink: /blog/:year/:month/:day/:title
